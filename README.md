@@ -1,3 +1,13 @@
+## 📸 Preview
+
+### Upload Interface
+![Upload](https://github.com/tanmaymishrab0c9/blackbar/blob/main/Screenshot%202026-03-31%20200418.png)
+
+### Redaction in Action
+![Redaction](https://github.com/tanmaymishrab0c9/blackbar/blob/main/Screenshot%202026-03-31%20200550.png)
+
+### Review & Export
+![Review](https://github.com/tanmaymishrab0c9/blackbar/blob/main/Screenshot%202026-03-31%20200625.png)
 #  BlackBar
 
 **BlackBar** is a fully client-side PDF redaction tool that detects, reviews, and permanently removes sensitive information — all directly in your browser.
